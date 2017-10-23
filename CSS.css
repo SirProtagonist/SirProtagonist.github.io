@@ -7,7 +7,7 @@ h1
 	padding-right: 40%
 	padding-bottom: 30%;
 	padding-left: 40%
-    background: 47020e;
+        background: 47020e;
 	font-family: 'Coda Caption', sans-serif;
 }
 h4{
@@ -34,11 +34,4 @@ p{
 h2
 {
 	font-family: 'Abel', sans-serif;
-}
-#Mods{
-	display: inline-block;
-}
-#Admins{
-	display: inline-block;
-
 }
